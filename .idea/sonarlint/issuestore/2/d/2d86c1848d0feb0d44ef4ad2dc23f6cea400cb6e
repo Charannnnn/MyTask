@@ -1,0 +1,9 @@
+
+lsquid:MaximumInheritanceDepth"<This class has 6 parents which is greater than 5 authorized.(²Ϊ±8Β©µΌ©.
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(μ—¤όÿÿÿÿ8Ύ½©.
+dsquid:UselessImportCheck"4Remove this unused import 'android.widget.TextView'.(„Λ‚ÿÿÿÿÿ8ος³½©.
+csquid:UselessImportCheck"3Remove this unused import 'android.graphics.Paint'.(κύ‚•ÿÿÿÿÿ8ος³½©.
+esquid:UselessImportCheck
+":Remove this unused import 'android.widget.CompoundButton'.(®½¤ή8ος³½©.
+^squid:UselessImportCheck	"4Remove this unused import 'android.widget.CheckBox'.(Ωαb8ος³½©.
+Tsquid:S2696"6Make the enclosing method "static" or remove this set.(ÿΊεβ8νΚ¶½©.
